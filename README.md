@@ -7,7 +7,8 @@
 ---
 
 ## 👨‍💻 Profile
-Engasjert IT-ingeniørstudent med kompetanse innen programmering, systemarkitektur og webutvikling. Motivert av praktisk erfaring og ønsker å bidra med mine ferdigheter i et dynamisk IT-miljø.
+I am a proactive and dedicated IT Engineering student with a strong foundation in software development, system architecture, and web technologies. My hands-on experience across various development environments, combined with a solid understanding of software engineering principles, allows me to efficiently solve complex problems and create innovative solutions. I am highly motivated to apply my skills in a dynamic tech environment, contributing as a collaborative team member and continuously expanding my knowledge to stay at the forefront of technology.
+
 
 ---
 
